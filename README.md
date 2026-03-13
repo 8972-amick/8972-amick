@@ -1,4 +1,5 @@
 # Hi 👋 I'm Amick Khadka
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 💻 Full Stack Developer  
 🌱 Currently learning React, Node.js, and PostgreSQL  

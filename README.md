@@ -14,11 +14,11 @@
 
 I enjoy pushing the boundaries of technology and building innovative solutions.  
 I love exploring **modern web development, backend systems, and AI-based applications**.
-
+and exploring the **Data analysis**
 - 🌱 Currently learning **JavaScript, React.js, Node.js, PostgreSQL**
 - 🚀 Working on **Curex – AI Based Healthcare System**
 - 💻 Building **Full Stack Projects**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **khadkaamick2gmail.com**
 
 ---
 

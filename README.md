@@ -25,7 +25,7 @@ I love exploring **modern web development, backend systems, and AI-based applica
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postgres,firebase,postman,c,cpp,java,python,dotnet,androidstudio,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postgres,java,python,git,github"/>
 </p>
 
 ---
@@ -62,16 +62,12 @@ I love exploring **modern web development, backend systems, and AI-based applica
 
 ---
 
-# 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=8972-amick&theme=onedark)
-
----
 
 # 🔗 Connect With Me
 
 - 💼 Portfolio: https://yourwebsite.com  
 - 💼 LinkedIn: https://linkedin.com  
-- 📧 Email: your-email@example.com
+- 📧 Email: khadkaamick2@gmail.com
 
 ---

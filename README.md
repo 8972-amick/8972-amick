@@ -1,23 +1,15 @@
 # Hi 👋 I'm Amick Khadka
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-💻 Full Stack Developer  
-🌱 Currently learning React, Node.js, and PostgreSQL  
-🚀 Working on Curex - a AI based health care project 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Node+Developer;Learning+Everyday)
 
-## 🛠️ Tech Stack
-- JavaScript
-- React
-- Node.js
-- Express
-- PostgreSQL
-- Git
-- Python
-- Java
+## 🚀 Tech Stack
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,git,github,java" />
 
 ## 📊 GitHub Stats
-![Amick's GitHub stats](https://github-readme-stats.vercel.app/api?username=8972-amick&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
 
-## 🔗 Connect with me
-- LinkedIn: https://linkedin.com
-- Portfolio: https://yourwebsite.com
+## 🔥 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark)
+
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME)

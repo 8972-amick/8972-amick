@@ -45,11 +45,7 @@ and exploring the **Data analysis**
 
 ---
 
-# 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
 
 
 

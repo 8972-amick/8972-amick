@@ -19,17 +19,6 @@ and exploring the **Data analysis**
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=8972-amick&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8972-amick&layout=compact&theme=radical"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -51,8 +40,8 @@ and exploring the **Data analysis**
 
 # 🔗 Connect With Me
 
-- 💼 Portfolio: https://yourwebsite.com  
-- 💼 LinkedIn: https://linkedin.com  
+- 💼 Portfolio: http://127.0.0.1:5501/index.html 
+- 💼 LinkedIn:  https://linkedin.com/in/amick-khadka
 - 📧 Email: khadkaamick2@gmail.com
 
 ---

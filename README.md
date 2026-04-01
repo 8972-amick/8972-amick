@@ -40,7 +40,7 @@ and exploring the **Data analysis**
 
 # 🔗 Connect With Me
 
-- 💼 Portfoli   https://github.com/8972-amick/personalPortfolio
+- 💼 Portfoli   https://amick-khadka.netlify.app/
 - 💼 LinkedIn:  https://linkedin.com/in/amick-khadka
 - 📧 Email: khadkaamick2@gmail.com
 
